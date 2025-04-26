@@ -1,6 +1,6 @@
 # Ex03 Time Table
 ## Name: V.B.Laksha
-## register no. : 212224220051
+## Register no. : 212224220051
 ## Date: 26/4/25
 
 ## AIM
